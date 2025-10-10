@@ -2,7 +2,7 @@
 
 C'est parti pour le premier atelier ! 🎉
 
-## Étape 1 : création de la VM windows 10 et installer des logiciels
+## Étape 1 : création de la VM windows 10 et installer des logiciels "Mozilla Firefox, VLC, Adobe Reader, 7zip et LibreOffice"
 
 ![alt text](image.png)
 
@@ -10,7 +10,7 @@ C'est parti pour le premier atelier ! 🎉
 
 création d'un compte nommé user2 dans le groupe utilisateur.
 
-![alt text](image-1.png)
+![alt text](image-4.png)
 
 ## Bonus installation Windows 11 + sans devoir utiliser un compte Microsoft
 
