@@ -16,11 +16,12 @@ création d'un compte nommé user2 dans le groupe utilisateur.
 
 ![alt text](image-2.png)
 
-**Procèdure que j'ai appliqué: 
-Après l’installation de Windows 11, l'ordinateur redémarre et on arrive sur l’OOBE.
-Appuyez simultanément sur les touches sur ⇧ Maj + F10 pour ouvrir le CMD.
-Saisissez la commande "start ms-cxh:localonly" puis faire Entrée.
-Une nouvelle fenêtre Compte Microsoft s’ouvre, dans laquelle on peut créer un compte utilisateur local.**
+#Procèdure que j'ai appliqué#
+
+1. Après l’installation de Windows 11, l'ordinateur redémarre et on arrive sur l’OOBE.
+2. Appuyez simultanément sur les touches sur ⇧ Maj + F10 pour ouvrir le CMD.
+3. Saisissez la commande "start ms-cxh:localonly" puis faire Entrée.
+4. Une nouvelle fenêtre Compte Microsoft s’ouvre, dans laquelle on peut créer un compte utilisateur local.
 
 ## Méga-bonus : installer et utiliser Ubuntu 24.04
 
