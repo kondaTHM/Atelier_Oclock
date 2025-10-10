@@ -27,5 +27,9 @@ création d'un compte nommé user2 dans le groupe utilisateur.
 
 ![alt text](image-3.png)
 
+## VBOX avec les 3 VM installées 
+
+![alt text](image-5.png)
+
 ## J'ai terminé ! Veille Techno en cours...
 
