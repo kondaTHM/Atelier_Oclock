@@ -4,17 +4,17 @@ C'est parti pour le premier atelier ! 🎉
 
 ## Étape 1 : création de la VM windows 10 et installer des logiciels "Mozilla Firefox, VLC, Adobe Reader, 7zip et LibreOffice"
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## Étape 2 : créer un deuxième utilisateur local
 
 création d'un compte nommé user2 dans le groupe utilisateur.
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 ## Bonus installation Windows 11 + sans devoir utiliser un compte Microsoft
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 #Procèdure que j'ai appliqué#
 
@@ -25,11 +25,12 @@ création d'un compte nommé user2 dans le groupe utilisateur.
 
 ## Méga-bonus : installer et utiliser Ubuntu 24.04
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ## VBOX avec les 3 VM installées 
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 ## J'ai terminé ! Veille Techno en cours...
 
+![alt text](images/image-7.png)
