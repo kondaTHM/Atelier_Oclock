@@ -44,7 +44,7 @@ Choix de l'adresse 192.168.0.0/16 pour les VPN
 ## Étape 2 - Câblage
 
 
-![alt text](images\image.png)
+![alt text](images/imagecâblage.png)
 
 ## Étape 3 - Configuration des switchs
 
