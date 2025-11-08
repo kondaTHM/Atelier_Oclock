@@ -348,12 +348,12 @@ Utilisation de AP-PT (Access Point) dans Packet Tracer, dans la catégorie `Netw
 MODEM ACCESS POINT-PT 
 Sur les PC : CARTE WIFI WPC300N
 
-![alt text](IMAGES/WIFI1.png)
+![alt text](images/WIFI1.png)
 
 test de connectivité toujours ok ! DHCP , ping fonctionnels.
 
  # BIG Bonus
 
-UNDER CONSTRUCTION 
+en cours de réalisation
 
 
