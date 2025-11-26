@@ -2,6 +2,10 @@
 
 ![alt text](images/image-49.png)
 
+> création des des UO,users et GS.
+
+![alt text](images/image-79.png)
+
 ## 1. GPO : Activation du Pavé Numérique (NumLock)
 > Configuration via le Registre Windows pour forcer l'activation du pavé numérique dès l'écran de connexion (niveau Ordinateur).
 
