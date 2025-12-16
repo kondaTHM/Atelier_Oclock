@@ -102,8 +102,11 @@ root@debian:~# sudo nano /etc/network/interfaces
 2. Creation d'une nouvelle base de données nommée glpi
 
 ![alt text](images/image-96.png)
+
 3. Première connexion, utilisez le nom d'utilisateur glpi et le mot de passe glpi 
+
 ![alt text](images/image-97.png)
+
 4. GLPI opérationnel 🎉
 ![alt text](images/image-98.png)
 
