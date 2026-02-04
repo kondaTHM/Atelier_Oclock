@@ -1,18 +1,6 @@
 # 🛡️ Atelier Bash - Automatisation de l'administration système (TechSecure)
 
-## 📋 Contexte professionnel
-Recruté en tant qu'administrateur système Linux chez **TechSecure**, ma mission a consisté à automatiser les tâches récurrentes d'une infrastructure de 20 serveurs (Debian/Ubuntu). Cette suite de scripts vise à supprimer les interventions manuelles chronophages, à fiabiliser l'exploitation et à assurer un suivi rigoureux via des rapports et des logs.
-
-## 🎯 Objectifs de l'atelier
-* Créer des scripts Bash professionnels et maintenables.
-* Automatiser les tâches courantes d'administration système.
-* Gérer les erreurs et valider les entrées utilisateur.
-* Produire des rapports et des logs d'exécution.
-* Documenter les scripts pour faciliter leur utilisation.
-
----
-
-# 💻 Matériel & Environnement
+# 💻 Matériel & Environnement utilisé
 > **OS :** Ubuntu 25.04
 > **Infrastructure :** Conteneur Linux (LXC) déployé sur **PROXMOX**
 
@@ -20,6 +8,9 @@ Recruté en tant qu'administrateur système Linux chez **TechSecure**, ma missio
 ![Terminal Ubuntu](images/image-1.png)
 
 ---
+
+### Mon rendu :[ ICI !](exercice.md)
+----
 
 ## 🛠️ Installation et Dépendances
 

@@ -19,6 +19,9 @@ Votre mission : développer des outils d'automatisation robustes, réutilisables
 
 ---
 
+> Mon fichier d'exercice :
+[ICI !](exercice.md)
+
 # Matériel :
 
 > J'ai utilisé un conteneur linux crée sur PROXMOX avec ubuntu 25.04 comme OS :
