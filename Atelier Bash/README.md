@@ -1,7 +1,7 @@
 # 🛡️ Atelier Bash - Automatisation de l'administration système (TechSecure)
 
-# 💻 Matériel & Environnement utilisé
-> **OS :** Ubuntu 25.04
+## 💻 Matériel & Environnement utilisé
+> **OS :** Ubuntu 25.04  
 > **Infrastructure :** Conteneur Linux (LXC) déployé sur **PROXMOX**
 
 ![Capture Proxmox](images/image-3.png)
@@ -9,8 +9,19 @@
 
 ---
 
-### Mon rendu :[ ICI !](exercice.md)
-----
+# Configuration de l'environnement de développement
+
+## 🛠️ Méthodologie de travail
+* **Rédaction des scripts :** Réalisée sous **VS Code** sur la machine hôte (**Windows 11**).
+* **Environnement d'exécution :** Tests et exécutions effectués au sein d'un conteneur **LXC Linux**.
+
+## 🚀 Workflow de test
+* **Édition :** Écriture du code avec les extensions Bash de VS Code.
+* **Exécution :** Lancement des scripts dans l'environnement isolé Linux pour garantir la compatibilité système.
+
+### Mon rendu : [ICI !](exercice.md)
+
+---
 
 ## 🛠️ Installation et Dépendances
 
@@ -19,7 +30,7 @@ Pour garantir le bon fonctionnement de tous les outils (notamment pour les calcu
 * **`bc`** : Pour les calculs arithmétiques du script de nettoyage.
 * **`openssl`** : Pour la génération sécurisée des mots de passe.
 * **`systemd`** : Pour la surveillance de l'état des services.
-* **`coreutils`** : Pour les commandes de base (df, awk, etc.).
+* **`coreutils`** : Pour les commandes de base (`df`, `awk`, etc.).
 
 ### 2. Configuration des permissions
 Après avoir copié les fichiers dans votre répertoire de travail, rendez tous les scripts exécutables avec la commande suivante :
@@ -27,26 +38,28 @@ Après avoir copié les fichiers dans votre répertoire de travail, rendez tous 
 chmod +x scripts/*.sh
 ```
 
-### 2. Configuration des permissions
-Créer `services.conf` avec la liste des services (ssh, cron, etc.)
+### 3. Fichiers de configuration
+* Créer le fichier `services.conf` avec la liste des services à surveiller (ex: `ssh`, `cron`, etc.).
+
+---
 
 ## 📂 Détail des Parties et Utilisation
 
 ### Partie 1 : Sauvegarde automatisée (`backup.sh`)
 * **Description** : Permet d'archiver et de compresser un répertoire vers une destination de secours avec horodatage.
 * **Usage** : `sudo ./backup.sh /chemin/source`
-* **Test** : ![Capture d'écran Test Backup](images/image-2.png)
+* **Test** : ![Capture Test Backup](images/image-2.png)
 
 ### Partie 2 : Moniteur de ressources système (`monitor.sh`)
 * **Description** : Affiche l'utilisation CPU, RAM et Disque avec des alertes visuelles.
 * **Usage** : `./monitor.sh`
-* **Test** : ![Capture d'écran Test Monitor](images/image.png)
+* **Test** : ![Capture Test Monitor](images/image.png)
 
 ### Partie 3 : Gestionnaire d'utilisateurs en masse (`create-users.sh`)
 * **Description** : Permet la création ou la suppression d'utilisateurs via un fichier CSV.
 * **Usage Création** : `sudo ./create-users.sh users.csv`
 * **Usage Suppression** : `sudo ./create-users.sh users.csv -d`
-* **Vérification des Logs** : ![Capture d'écran Logs Utilisateurs](images/image-9.png)
+* **Vérification des Logs** : ![Capture Logs Utilisateurs](images/image-9.png)
 
 ### Partie 4 : Nettoyeur de système automatique (`cleanup.sh`)
 * **Description** : Nettoyage des fichiers `/tmp`, vieux logs, cache APT et corbeilles.
@@ -60,7 +73,7 @@ Créer `services.conf` avec la liste des services (ssh, cron, etc.)
 ### Partie 6 : Outil centralisé de gestion (`sysadmin-tools.sh`)
 * **Description** : Menu interactif regroupant l'ensemble des fonctionnalités.
 * **Usage** : `sudo ./sysadmin-tools.sh`
-* **Test** : ![Capture d'écran Menu Centralisé](images/image-15.png)
+* **Test** : ![Capture Menu Centralisé](images/image-15.png)
 
 ---
 
