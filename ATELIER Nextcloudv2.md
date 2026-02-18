@@ -69,10 +69,11 @@ Création des groupes et de **15 utilisateurs** (Mot de passe : `rocknroll26!`).
     * [Fichier CSV des utilisateurs](doc/utilisateurs.csv)
     * [Script d'importation Shell](doc/import_users.sh)
 
-![Exécution du script](images/image-137.png)
+![Exécution du script](images/image-151.png)
 
 **Rendu final de l'annuaire :**
 ![Liste utilisateurs](images/image-139.png)
+
 
 ---
 
