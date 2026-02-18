@@ -1,0 +1,16 @@
+user_id,display_name,email,password,groups,quota
+alice.martin,Alice Martin,alice@example.com,EduLearn2025!,Direction,10 GB
+bob.durand,Bob Durand,bob@example.com,EduLearn2025!,Direction,10 GB
+charlie.dev,Charlie Dev,charlie@example.com,EduLearn2025!,Développement,5 GB
+diana.code,Diana Code,diana@example.com,EduLearn2025!,Développement,5 GB
+ethan.tech,Ethan Tech,ethan@example.com,EduLearn2025!,Développement,5 GB
+fiona.web,Fiona Web,fiona@example.com,EduLearn2025!,Développement,5 GB
+greg.mobile,Greg Mobile,greg@example.com,EduLearn2025!,Développement,5 GB
+hannah.prof,Hannah Prof,hannah@example.com,EduLearn2025!,Pédagogie,8 GB
+ivan.teach,Ivan Teach,ivan@example.com,EduLearn2025!,Pédagogie,8 GB
+julia.learn,Julia Learn,julia@example.com,EduLearn2025!,Pédagogie,8 GB
+kevin.edu,Kevin Edu,kevin@example.com,EduLearn2025!,Pédagogie,8 GB
+laura.market,Laura Market,laura@example.com,EduLearn2025!,Marketing,5 GB
+michael.sales,Michael Sales,michael@example.com,EduLearn2025!,Marketing,5 GB
+nina.comm,Nina Comm,nina@example.com,EduLearn2025!,Marketing,5 GB
+oscar.help,Oscar Help,oscar@example.com,EduLearn2025!,Support,5 GB
